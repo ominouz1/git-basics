@@ -5,3 +5,6 @@ I live in Tema
 I did not attend yesterday 
 I learnt basic linux commands and also how to use git and github
 I will learn basic python tomorrow 
+
+
+1826613350609854464mjnorvor1
