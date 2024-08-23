@@ -1,8 +1,8 @@
 '''
 import pyowm
 
-weatherapi = 'bbc9f3a2990cde52e2a63cfb204e5967'
-owm = pyowm.OWM('bbc9f3a2990cde52e2a63cfb204e5967')
+weatherapi = ''
+owm = pyowm.OWM('')
 mgr = owm.weather_manager()
 observation = mgr.weather_at_place('Hong Kong, China')
 w = observation.weather
